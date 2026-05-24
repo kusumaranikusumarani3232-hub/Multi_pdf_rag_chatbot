@@ -1,0 +1,11 @@
+streamlit
+transformers==4.37.2
+sentence-transformers==2.2.2
+langchain
+langchain-community
+langchain-text-splitters
+faiss-cpu
+pypdf
+accelerate
+huggingface_hub==0.19.4
+torch
